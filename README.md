@@ -1,16 +1,16 @@
 # Hey, I'm Madhumitha :)
 
-Senior ML Engineer building agentic AI systems: RAG pipelines, multi-agent frameworks, memory-aware assistants, and the infrastructure to evaluate whether agents actually behave correctly. I open-sourced **AgentRubric**, a trajectory-scoring framework for LLM agents.
+Senior Machine Learning Engineer building agentic AI systems : RAG pipelines, emotionally aware multi modal systems, multi-agent frameworks, memory-aware assistants, and the infrastructure to evaluate whether agents actually behave correctly. I open-sourced **AgentRubric**, a trajectory-scoring framework for LLM agents.
 
 I'm drawn to **Computational Neuroscience + Reinforcement Learning + JAX** as a lens on intelligence itself, studying how the brain learns and generalizes with so little data, and bringing those principles into ML. I document that journey daily in **JAX-RL-Lab**, and turn the same curiosity into hardware: a game controlled by my own brain signals, and **SilentVoice**, a sign-language-translating glove (open-source Instructable).
 
-Outside of ML, I blend cinematography and tech. I directed the world's only short film on Data Structures and Algorithms, and teach DSA on YouTube.
+Outside of ML, I blend cinematography and tech. I directed the world's only short film on Data Structures and Algorithms, I build electronics + PCB + Neuroscience projects, 3D print and teach DSA on YouTube.
 
-**Currently:** leading a Langfuse-native LLM agent evaluation framework at SolarWinds (370+ eval scenarios), studying computational neuroscience + EEG applications, spoke on AI Safety at Google Development Fest to 700+ attendees.
+**Currently:** leading a Langfuse-native trajectory level LLM agent evaluation framework at SolarWinds (370+ eval scenarios), studying computational neuroscience + EEG applications, spoke on AI Safety at Google Development Fest to 700+ attendees.
 
 `Reinforcement Learning` · `Computational Neuroscience` · `LLM Agents & Evaluation` · `RAG` · `Transformers` · `JAX` · `Computer Vision` · `Speech` · `Applied Mathematics`
 
-## Experience
+## Experience : 
 
 | Role | Company | When |
 |---|---|---|
@@ -20,13 +20,13 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 | Machine Learning Engineer | Mercedes-Benz R&D India | 2021 – 2024 |
 | Data Scientist | Deloitte | 2020 – 2021 |
 
-## Featured projects
+## Featured projects : 
 
 - **AgentRubric**: LLM agent trajectory evaluation across 5 metrics (tool accuracy, argument fidelity, efficiency, completion, failure taxonomy). Published on PyPI.
 - **JAX-RL-Lab**: daily JAX + RL implementations, from `grad`/`jit`/`vmap` to Q-learning, DQN, REINFORCE, and Actor-Critic.
 - **SilentVoice**: sign-language-translating glove combining embedded sensors with ML gesture classification, published as an open-source Instructable.
 
-## Find me
+## Find me : 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-madhumithakolkar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumithakolkar)
 [![dev.to](https://img.shields.io/badge/dev.to-madhumithakolkar-0A0A0A?logo=devdotto&logoColor=white)](https://www.dev.to/madhumithakolkar)
