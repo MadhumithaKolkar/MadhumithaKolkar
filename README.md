@@ -1,4 +1,4 @@
-# Hi, I'm Madhumitha :)
+# Hey, I'm Madhumitha :)
 
 Senior ML Engineer building agentic AI systems: RAG pipelines, multi-agent frameworks, memory-aware assistants, and the infrastructure to evaluate whether agents actually behave correctly. I open-sourced **AgentRubric**, a trajectory-scoring framework for LLM agents.
 
