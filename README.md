@@ -25,7 +25,6 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 - **AgentRubric**: LLM agent trajectory evaluation across 5 metrics (tool accuracy, argument fidelity, efficiency, completion, failure taxonomy). Published on PyPI.
 - **JAX-RL-Lab**: daily JAX + RL implementations, from `grad`/`jit`/`vmap` to Q-learning, DQN, REINFORCE, and Actor-Critic.
 - **SilentVoice**: sign-language-translating glove combining embedded sensors with ML gesture classification, published as an open-source Instructable.
-- **tinytutor**: npm CLI that hooks into Claude Code sessions to quiz you on the code it just wrote before letting you continue, so AI-assisted projects stay genuinely understood, not just shipped. Published on npm.
 
 ## Find me : 
 
