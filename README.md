@@ -1,6 +1,6 @@
 # Hey, I'm Madhumitha :)
 
-Senior Machine Learning Engineer building agentic AI systems : RAG pipelines, emotionally aware multi modal systems, multi-agent frameworks, memory-aware assistants, and the infrastructure to evaluate whether agents actually behave correctly. I open-sourced **AgentRubric**, a trajectory-scoring framework for LLM agents.
+Senior Machine Learning Engineer building agentic AI systems : RAG pipelines, emotionally aware multi modal systems, multi-agent frameworks, memory-aware assistants, and the infrastructure to evaluate whether agents actually behave correctly. I open-sourced **AgentRubric**, a trajectory-scoring framework for LLM agents, and **Forge**, a minimal GRPO fine-tuning engine for LLMs.
 
 I'm drawn to **Computational Neuroscience + Reinforcement Learning + JAX** as a lens on intelligence itself, studying how the brain learns and generalizes with so little data, and bringing those principles into ML. I document that journey daily in **JAX-RL-Lab**, and turn the same curiosity into hardware: a game controlled by my own brain signals, and **SilentVoice**, a sign-language-translating glove (open-source Instructable).
 
@@ -22,6 +22,7 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 
 ## Featured projects : 
 
+- **Forge**: a minimal GRPO (Group Relative Policy Optimization) fine-tuning engine for LLMs, the algorithm behind DeepSeek-R1. Published on PyPI.
 - **AgentRubric**: LLM agent trajectory evaluation across 5 metrics (tool accuracy, argument fidelity, efficiency, completion, failure taxonomy). Published on PyPI.
 - **tinytutor**: an accountability layer for AI-assisted coding. Plugs into Claude Code and quizzes you on the code it just wrote before letting you keep building, so you can actually explain your own project. Open source, published on npm.
 - **JAX-RL-Lab**: daily JAX + RL implementations, from `grad`/`jit`/`vmap` to Q-learning, DQN, REINFORCE, and Actor-Critic.
