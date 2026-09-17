@@ -10,16 +10,24 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 
 `Reinforcement Learning` · `Computational Neuroscience` · `LLM Agents & Evaluation` · `RAG` · `Transformers` · `JAX` · `Computer Vision` · `Speech` · `Applied Mathematics`
 
-## INDEX 0 : a free, local Socratic coding coach
+## INDEX 0 — a free, local learning platform
 
 [![Website](https://img.shields.io/badge/website-index--0.in-1cd6ac)](https://www.index-0.in)
-[![Downloads](https://img.shields.io/github/downloads/MadhumithaKolkar/index0-releases/total?label=downloads&color=1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases/releases)
-[![Latest release](https://img.shields.io/github/v/release/MadhumithaKolkar/index0-releases?label=latest&color=1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases/releases/latest)
-[![Platforms](https://img.shields.io/badge/platform-macOS%20|%20Windows%20|%20Linux-1cd6ac)](https://www.index-0.in)
+[![Latest release](https://img.shields.io/github/v/release/MadhumithaKolkar/index0-releases?label=latest%20release&color=1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases/releases/latest)
+[![License](https://img.shields.io/badge/license-free%20to%20use-1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases#license)
 
-A desktop app I built and shipped solo: Zero, a strict Socratic coach that walks you through DSA with a 6-stage loop (understand → intuition → brute force → tradeoffs → optimize → final) and never hands you working code before you've earned it, plus full roadmaps for ML/AI, electronics, and system design, guided mock interviews, and a few games for a break. Runs entirely on your own machine against a local Ollama + Gemma model - nothing you write is ever sent anywhere.
+A desktop application for DSA, ML/AI, electronics, and system design, built and shipped solo, with an integrated AI coach and a guided mock-interview system. Runs entirely offline against a local Ollama + Gemma model - no cloud dependency, account, or subscription.
 
-**[www.index-0.in](https://www.index-0.in)** · macOS, Windows & Linux · free, not a subscription
+| Metric | Value |
+|---|---|
+| DSA problems | 422 |
+| ML/AI lectures | 34 |
+| Electronics lessons | 74 |
+| System design lessons | 102 |
+| Platforms | macOS · Windows · Linux |
+| Downloads | [![Downloads](https://img.shields.io/github/downloads/MadhumithaKolkar/index0-releases/total?label=%20&color=1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases/releases) |
+
+**[www.index-0.in](https://www.index-0.in)**
 
 ## Experience : 
 
