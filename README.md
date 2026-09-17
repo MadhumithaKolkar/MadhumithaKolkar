@@ -29,16 +29,6 @@ A desktop application for DSA, ML/AI, electronics, and system design, built and 
 
 **[www.index-0.in](https://www.index-0.in)**
 
-## Experience : 
-
-| Role | Company | When |
-|---|---|---|
-| Senior ML Engineer | SolarWinds | 2026 – present |
-| Senior ML Engineer – Research Specialist | Nokia | 2025 – 2026 |
-| Machine Learning Engineer | Stealth Startup | 2024 – 2025 |
-| Machine Learning Engineer | Mercedes-Benz R&D India | 2021 – 2024 |
-| Data Scientist | Deloitte | 2020 – 2021 |
-
 ## Featured projects : 
 
 - **[Forge](https://github.com/MadhumithaKolkar/forge)**: a minimal GRPO (Group Relative Policy Optimization) fine-tuning engine for LLMs, the algorithm behind DeepSeek-R1. Published on PyPI.
@@ -48,6 +38,16 @@ A desktop application for DSA, ML/AI, electronics, and system design, built and 
 - **[JAX-RL-Lab](https://github.com/MadhumithaKolkar/jax-rl-lab)**: daily JAX + RL implementations, from `grad`/`jit`/`vmap` to Q-learning, DQN, REINFORCE, and Actor-Critic.
 - **[SilentVoice](https://github.com/MadhumithaKolkar/SilentVoice)**: sign-language-translating glove combining embedded sensors with ML gesture classification, published as an open-source Instructable.
 - **[MoodMap](https://github.com/MadhumithaKolkar/mood_map)**: a multi-modal emotion-aware AI system, built around a self-trained audio emotion classifier, with video-based emotion recognition and speech-to-text support, aimed at giving AI a genuine sense of emotional context.
+
+## Experience : 
+
+| Role | Company | When |
+|---|---|---|
+| Senior ML Engineer | SolarWinds | 2026 – present |
+| Senior ML Engineer – Research Specialist | Nokia | 2025 – 2026 |
+| Machine Learning Engineer | Stealth Startup | 2024 – 2025 |
+| Machine Learning Engineer | Mercedes-Benz R&D India | 2021 – 2024 |
+| Data Scientist | Deloitte | 2020 – 2021 |
 
 ## Find me : 
 
