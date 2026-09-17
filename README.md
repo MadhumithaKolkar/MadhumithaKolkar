@@ -25,7 +25,7 @@ A desktop application for DSA, ML/AI, electronics, and system design, built and 
 | Electronics lessons | 74 |
 | System design lessons | 102 |
 | Platforms | macOS · Windows · Linux |
-| Downloads | [![Downloads](https://img.shields.io/github/downloads/MadhumithaKolkar/index0-releases/total?label=%20&color=1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases/releases) |
+| Downloads | [![Downloads](https://img.shields.io/github/downloads/MadhumithaKolkar/index0-releases/total?label=%20&color=f97316)](https://github.com/MadhumithaKolkar/index0-releases/releases) |
 
 **[www.index-0.in](https://www.index-0.in)**
 
