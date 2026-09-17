@@ -8,7 +8,15 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 
 **Currently:** leading a Langfuse-native trajectory level LLM agent evaluation framework at SolarWinds (370+ eval scenarios), studying computational neuroscience + EEG applications, spoke on AI Safety at Google Development Fest to 700+ attendees.
 
-`Reinforcement Learning` · `Computational Neuroscience` · `LLM Agents & Evaluation` · `RAG` · `Transformers` · `JAX` · `Computer Vision` · `Speech` · `Applied Mathematics`
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-1cd6ac?style=flat-square)
+![Computational Neuroscience](https://img.shields.io/badge/Computational_Neuroscience-1cd6ac?style=flat-square)
+![LLM Agents & Evaluation](https://img.shields.io/badge/LLM_Agents_%26_Evaluation-1cd6ac?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1cd6ac?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-1cd6ac?style=flat-square)
+![JAX](https://img.shields.io/badge/JAX-1cd6ac?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1cd6ac?style=flat-square)
+![Speech](https://img.shields.io/badge/Speech-1cd6ac?style=flat-square)
+![Applied Mathematics](https://img.shields.io/badge/Applied_Mathematics-1cd6ac?style=flat-square)
 
 ## INDEX 0 — a free, local learning platform
 
