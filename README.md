@@ -10,7 +10,7 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 
 `Reinforcement Learning` · `Computational Neuroscience` · `LLM Agents & Evaluation` · `RAG` · `Transformers` · `JAX` · `Computer Vision` · `Speech` · `Applied Mathematics`
 
-## INDEX 0 — a free, local learning platform
+## INDEX 0 - a free, local learning platform
 
 [![Website](https://img.shields.io/badge/website-index--0.in-1cd6ac)](https://www.index-0.in)
 [![Latest release](https://img.shields.io/github/v/release/MadhumithaKolkar/index0-releases?label=latest%20release&color=1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases/releases/latest)
