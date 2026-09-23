@@ -16,14 +16,18 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 [![Latest release](https://img.shields.io/github/v/release/MadhumithaKolkar/index0-releases?label=latest%20release&color=1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases/releases/latest)
 [![License](https://img.shields.io/badge/license-free%20to%20use-1cd6ac)](https://github.com/MadhumithaKolkar/index0-releases#license)
 
-A desktop application for DSA, ML/AI, electronics, and system design, built and shipped solo, with an integrated AI coach and a guided mock-interview system. Runs entirely offline against a local Ollama + Gemma model - no cloud dependency, account, or subscription.
+A desktop application for DSA, ML/AI, electronics, and system design, built and shipped solo. Scaled to 21,000+ users across 60 countries in the first 6 days of launch, and free for everyone, always.
+
+Runs entirely on your own machine, no cloud dependency, account, or subscription. Bring your own model, Anthropic, OpenAI, LM Studio, Llama.cpp, or a fully local and free Ollama + Gemma setup. Includes local DSA coaching, guided mock interviews with Zero, your friendly fox coach, brain-capacity games, and a lecture gallery spanning AI/ML, electronics, and system design, all in one place. Because it needs no internet after setup, it's also reaching learners in parts of the world with little or no reliable connectivity.
 
 | Metric | Value |
 |---|---|
+| Users | 21,000+ across 60 countries (first 6 days) |
 | DSA problems | 422 |
 | ML/AI lectures | 34 |
 | Electronics lessons | 74 |
 | System design lessons | 102 |
+| Model providers | Anthropic · OpenAI · LM Studio · Llama.cpp · Ollama (Gemma) |
 | Platforms | macOS · Windows · Linux |
 | Downloads | [![Downloads](https://img.shields.io/github/downloads/MadhumithaKolkar/index0-releases/total?label=%20&color=f97316)](https://github.com/MadhumithaKolkar/index0-releases/releases) |
 
