@@ -24,7 +24,7 @@ Runs entirely on your own machine, no cloud dependency, account, or subscription
 
 | Metric | Value |
 |---|---|
-| Users | 21,000+ across 60 countries (first 6 days) |
+| Users | 33,000+ across 95 countries (first 8 days) |
 | DSA problems | 422 |
 | ML/AI lectures | 34 |
 | Electronics lessons | 74 |
