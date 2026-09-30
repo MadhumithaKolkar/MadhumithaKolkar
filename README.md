@@ -49,6 +49,7 @@ Runs entirely on your own machine, no cloud dependency, account, or subscription
 
 | Role | Company | When |
 |---|---|---|
+| Founder | INDEX 0 | 2025 – present |
 | Senior ML Engineer | SolarWinds | 2026 – present |
 | Senior ML Engineer – Research Specialist | Nokia | 2025 – 2026 |
 | Machine Learning Engineer | Stealth Startup | 2024 – 2025 |
