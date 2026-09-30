@@ -25,8 +25,8 @@ Runs entirely on your own machine, no cloud dependency, account, or subscription
 | Metric | Value |
 |---|---|
 | Users | 33,000+ across 95 countries (first 8 days) |
-| DSA problems | 422 |
-| ML/AI lectures | 34 |
+| DSA problems | 475 |
+| ML/AI lectures | 114 |
 | Electronics lessons | 74 |
 | System design lessons | 102 |
 | Model providers | Anthropic · OpenAI · LM Studio · Llama.cpp · Ollama (Gemma) |
