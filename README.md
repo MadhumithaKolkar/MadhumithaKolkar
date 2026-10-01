@@ -18,13 +18,13 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 
 <img src="https://www.index-0.in/api/readme-map" alt="INDEX 0 downloads by country, live" width="100%">
 
-A desktop application for DSA, ML/AI, electronics, and system design, built and shipped solo. Scaled to 43,000+ users across 102 countries in the first 10 days of launch, and free for everyone, always.
+A desktop application for DSA, ML/AI, electronics, and system design, built and shipped solo. Scaled to 48,000+ users across 109 countries in the first 13 days of launch, and free for everyone, always.
 
 Runs entirely on your own machine, no cloud dependency, account, or subscription. Bring your own model, Anthropic, OpenAI, LM Studio, Llama.cpp, or a fully local and free Ollama + Gemma setup. Includes local DSA coaching, guided mock interviews with Zero, your friendly fox coach, brain-capacity games, and a lecture gallery spanning AI/ML, electronics, and system design, all in one place. Because it needs no internet after setup, it's also reaching learners in parts of the world with little or no reliable connectivity.
 
 | Metric | Value |
 |---|---|
-| Users | 33,000+ across 95 countries (first 8 days) |
+| Users | 48,000+ across 109 countries |
 | DSA problems | 475 |
 | ML/AI lectures | 114 |
 | Electronics lessons | 74 |
