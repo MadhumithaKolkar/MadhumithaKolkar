@@ -18,7 +18,7 @@ Outside of ML, I blend cinematography and tech. I directed the world's only shor
 
 <img src="https://www.index-0.in/api/readme-map" alt="INDEX 0 downloads by country, live" width="100%">
 
-A desktop application for DSA, ML/AI, electronics, and system design, built and shipped solo. Scaled to [![Downloads](https://img.shields.io/github/downloads/MadhumithaKolkar/index0-releases/total?label=%20&color=f97316)](https://github.com/MadhumithaKolkar/index0-releases/releases) users across 110 countries, and free for everyone, always.
+A desktop application for DSA, ML/AI, electronics, and system design, built and shipped solo. Scaled to56,000+ users across 110 countries, and free for everyone, always.
 
 Runs entirely on your own machine, no cloud dependency, account, or subscription. Bring your own model, Anthropic, OpenAI, LM Studio, Llama.cpp, or a fully local and free Ollama + Gemma setup. Includes local DSA coaching, guided mock interviews with Zero, your friendly fox coach, brain-capacity games, and a lecture gallery spanning AI/ML, electronics, and system design, all in one place. Because it needs no internet after setup, it's also reaching learners in parts of the world with little or no reliable connectivity.
 
@@ -30,7 +30,7 @@ Runs entirely on your own machine, no cloud dependency, account, or subscription
 | System design lessons | 102 |
 | Model providers | Anthropic · OpenAI · LM Studio · Llama.cpp · Ollama (Gemma) |
 | Platforms | macOS · Windows · Linux |
-| Downloads | [![Downloads](https://img.shields.io/github/downloads/MadhumithaKolkar/index0-releases/total?label=%20&color=f97316)](https://github.com/MadhumithaKolkar/index0-releases/releases) |
+| Downloads | 56,700+ |
 
 **[www.index-0.in](https://www.index-0.in)**
 
