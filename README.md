@@ -30,8 +30,8 @@ Runs entirely on your own machine, no cloud dependency, account, or subscription
 | System design lessons | 102 |
 | Model providers | Anthropic · OpenAI · LM Studio · Llama.cpp · Ollama (Gemma) |
 | Platforms | macOS · Windows · Linux |
-| Downloads | 62,000+ |
-| Countries | 147 |
+| Downloads | ![Downloads](https://img.shields.io/github/downloads/MadhumithaKolkar/index0-releases/total?label=%20&color=f97316) |
+| Countries | ![Countries](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.index-0.in%2Fapi%2Fcountries-badge) |
 
 **[www.index-0.in](https://www.index-0.in)**
 
